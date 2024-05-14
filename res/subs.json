@@ -1,0 +1,636 @@
+[
+    {
+        "Item": "Strawberry",
+        "Substitutions": [
+            "Raspberries",
+            "Blueberries"
+        ]
+    },
+    {
+        "Item": "Soy Sauce",
+        "Substitutions": [
+            "Tamari",
+            "Coconut Aminos"
+        ]
+    },
+    {
+        "Item": "Cow's Milk",
+        "Substitutions": [
+            "Almond Milk",
+            "Soy Milk",
+            "Oat Milk"
+        ]
+    },
+    {
+        "Item": "Wheat Bread",
+        "Substitutions": [
+            "Gluten-Free Bread",
+            "Lettuce Wraps"
+        ]
+    },
+    {
+        "Item": "Chicken Egg",
+        "Substitutions": [
+            "Flaxseed Egg",
+            "Chia Seed Egg",
+            "Silken Tofu"
+        ]
+    },
+    {
+        "Item": "White Wine",
+        "Substitutions": [
+            "White Wine Vinegar",
+            "Chicken Broth"
+        ]
+    },
+    {
+        "Item": "Butter",
+        "Substitutions": [
+            "Margarine",
+            "Coconut Oil",
+            "Avocado Oil"
+        ]
+    },
+    {
+        "Item": "Sugar",
+        "Substitutions": [
+            "Honey",
+            "Maple Syrup",
+            "Agave Nectar"
+        ]
+    },
+    {
+        "Item": "All-Purpose Flour",
+        "Substitutions": [
+            "Almond Flour",
+            "Coconut Flour",
+            "Oat Flour"
+        ]
+    },
+    {
+        "Item": "Salmon",
+        "Substitutions": [
+            "Trout",
+            "Mackerel"
+        ]
+    },
+    {
+        "Item": "Beef",
+        "Substitutions": [
+            "Pork",
+            "Chicken",
+            "Mushrooms (for vegetarian option)"
+        ]
+    },
+    {
+        "Item": "Pasta",
+        "Substitutions": [
+            "Zucchini Noodles",
+            "Spaghetti Squash",
+            "Rice"
+        ]
+    },
+    {
+        "Item": "Cheddar Cheese",
+        "Substitutions": [
+            "Monterey Jack",
+            "Colby",
+            "Gouda"
+        ]
+    },
+    {
+        "Item": "Peanut Oil",
+        "Substitutions": [
+            "Canola Oil",
+            "Vegetable Oil",
+            "Sunflower Oil"
+        ]
+    },
+    {
+        "Item": "Olive Oil",
+        "Substitutions": [
+            "Avocado Oil",
+            "Grapeseed Oil",
+            "Canola Oil"
+        ]
+    },
+    {
+        "Item": "Sesame Oil",
+        "Substitutions": [
+            "Perilla Oil",
+            "Walnut Oil",
+            "Tahini (in dressings)"
+        ]
+    },
+    {
+        "Item": "Coconut Oil",
+        "Substitutions": [
+            "Butter",
+            "Palm Oil",
+            "Ghee"
+        ]
+    },
+    {
+        "Item": "Chicken",
+        "Substitutions": [
+            "Turkey",
+            "Duck",
+            "Tofu"
+        ]
+    },
+    {
+        "Item": "Pork",
+        "Substitutions": [
+            "Chicken",
+            "Turkey",
+            "Seitan (for vegetarian option)"
+        ]
+    },
+    {
+        "Item": "Lamb",
+        "Substitutions": [
+            "Beef",
+            "Goat",
+            "Mushrooms (for vegetarian option)"
+        ]
+    },
+    {
+        "Item": "Bread",
+        "Substitutions": [
+            "Pita",
+            "Tortillas",
+            "Lettuce Wraps (for gluten-free option)"
+        ]
+    },
+    {
+        "Item": "Wheat Flour",
+        "Substitutions": [
+            "Almond Flour",
+            "Coconut Flour",
+            "Oat Flour (for gluten-free option)"
+        ]
+    },
+    {
+        "Item": "Breadcrumbs",
+        "Substitutions": [
+            "Panko",
+            "Crushed Crackers",
+            "Almond Meal (for gluten-free option)"
+        ]
+    },
+    {
+        "Item": "Beer",
+        "Substitutions": [
+            "Chicken Broth",
+            "Non-alcoholic Beer",
+            "Ginger Ale"
+        ]
+    },
+    {
+        "Item": "Celery",
+        "Substitutions": [
+            "Bok Choy (stalks)",
+            "Fennel Stalks",
+            "Leeks"
+        ]
+    },
+    {
+        "Item": "Garlic Clove",
+        "Substitutions": [
+            "Garlic Powder",
+            "Shallots",
+            "Chives"
+        ]
+    },
+    {
+        "Item": "Onion",
+        "Substitutions": [
+            "Shallots",
+            "Leeks",
+            "Green Onions"
+        ]
+    },
+    {
+        "Item": "Bell Pepper",
+        "Substitutions": [
+            "Poblano Pepper",
+            "Zucchini",
+            "Cucumber (in salads)"
+        ]
+    },
+    {
+        "Item": "Carrots",
+        "Substitutions": [
+            "Parsnip",
+            "Turnip",
+            "Sweet Potato"
+        ]
+    },
+    {
+        "Item": "Mushroom",
+        "Substitutions": [
+            "Zucchini",
+            "Eggplant",
+            "Tofu (for texture)"
+        ]
+    },
+    {
+        "Item": "Spinach",
+        "Substitutions": [
+            "Kale",
+            "Swiss Chard",
+            "Arugula"
+        ]
+    },
+    {
+        "Item": "Lettuce",
+        "Substitutions": [
+            "Spinach",
+            "Kale",
+            "Arugula"
+        ]
+    },
+    {
+        "Item": "Cucumber",
+        "Substitutions": [
+            "Zucchini",
+            "Celery (in salads)",
+            "Jicama"
+        ]
+    },
+    {
+        "Item": "Broccoli",
+        "Substitutions": [
+            "Cauliflower",
+            "Broccolini",
+            "Brussels Sprouts"
+        ]
+    },
+    {
+        "Item": "Black Beans",
+        "Substitutions": [
+            "Kidney Beans",
+            "Pinto Beans",
+            "Navy Beans"
+        ]
+    },
+    {
+        "Item": "Kidney Beans",
+        "Substitutions": [
+            "Black Beans",
+            "Cannellini Beans",
+            "Red Beans"
+        ]
+    },
+    {
+        "Item": "Chickpeas",
+        "Substitutions": [
+            "Great Northern Beans",
+            "Fava Beans",
+            "Butter Beans"
+        ]
+    },
+    {
+        "Item": "Pinto Beans",
+        "Substitutions": [
+            "Cranberry Beans",
+            "Borlotti Beans",
+            "Red Kidney Beans"
+        ]
+    },
+    {
+        "Item": "Fava Beans",
+        "Substitutions": [
+            "Lima Beans",
+            "Edamame",
+            "Green Peas"
+        ]
+    },
+    {
+        "Item": "Lima Beans",
+        "Substitutions": [
+            "Butter Beans",
+            "Fava Beans",
+            "Edamame"
+        ]
+    },
+    {
+        "Item": "Red Lentils",
+        "Substitutions": [
+            "Yellow Lentils",
+            "Split Peas",
+            "Brown Lentils"
+        ]
+    },
+    {
+        "Item": "Green Lentils",
+        "Substitutions": [
+            "Brown Lentils",
+            "Puy Lentils",
+            "Black Lentils"
+        ]
+    },
+    {
+        "Item": "Adzuki Beans",
+        "Substitutions": [
+            "Mung Beans",
+            "Black Beans",
+            "Red Kidney Beans"
+        ]
+    },
+    {
+        "Item": "Navy Beans",
+        "Substitutions": [
+            "Great Northern Beans",
+            "Cannellini Beans",
+            "Baby Lima Beans"
+        ]
+    },
+    {
+        "Item": "Oyster Sauce",
+        "Substitutions": [
+            "Soy Sauce with a dash of Worcestershire Sauce",
+            "Hoisin Sauce",
+            "Fish Sauce"
+        ]
+    },
+    {
+        "Item": "Ramen Noodle",
+        "Substitutions": [
+            "Soba Noodles",
+            "Udon Noodles",
+            "Spaghetti"
+        ]
+    },
+    {
+        "Item": "Pita Bread",
+        "Substitutions": [
+            "Naan",
+            "Flatbread",
+            "Tortillas"
+        ]
+    },
+    {
+        "Item": "Cayenne Pepper",
+        "Substitutions": [
+            "Red Chili Flakes",
+            "Paprika",
+            "Hot Sauce"
+        ]
+    },
+    {
+        "Item": "Jalapeno Pepper",
+        "Substitutions": [
+            "Serrano Pepper",
+            "Bell Pepper",
+            "Banana Peppers"
+        ]
+    },
+    {
+        "Item": "Capers",
+        "Substitutions": [
+            "Green Olives",
+            "Pickled Artichokes",
+            "Thyme"
+        ]
+    },
+    {
+        "Item": "Olive",
+        "Substitutions": [
+            "Capers",
+            "Pickled Green Beans",
+            "Sun-Dried Tomatoes"
+        ]
+    },
+    {
+        "Item": "Cumin",
+        "Substitutions": [
+            "Ground Coriander",
+            "Caraway Seeds",
+            "Chili Powder"
+        ]
+    },
+    {
+        "Item": "Cinnamon",
+        "Substitutions": [
+            "Nutmeg",
+            "Allspice",
+            "Pumpkin Pie Spice"
+        ]
+    },
+    {
+        "Item": "Cardamom",
+        "Substitutions": [
+            "Ginger",
+            "Nutmeg and Cinnamon mix",
+            "Allspice"
+        ]
+    },
+    {
+        "Item": "Saffron",
+        "Substitutions": [
+            "Turmeric",
+            "Safflower",
+            "Paprika for color"
+        ]
+    },
+    {
+        "Item": "Nutmeg",
+        "Substitutions": [
+            "Mace",
+            "Ground Cloves",
+            "Allspice"
+        ]
+    },
+    {
+        "Item": "Tarragon",
+        "Substitutions": [
+            "Dill",
+            "Fennel Seeds",
+            "Basil"
+        ]
+    },
+    {
+        "Item": "Paprika",
+        "Substitutions": [
+            "Cayenne Pepper",
+            "Chili Powder",
+            "Red Pepper Flakes"
+        ]
+    },
+    {
+        "Item": "Clove",
+        "Substitutions": [
+            "Allspice",
+            "Cinnamon",
+            "Nutmeg"
+        ]
+    },
+    {
+        "Item": "Star Anise",
+        "Substitutions": [
+            "Fennel Seeds",
+            "Aniseed",
+            "Chinese Five Spice"
+        ]
+    },
+    {
+        "Item": "Sumac",
+        "Substitutions": [
+            "Lemon Zest",
+            "Vinegar",
+            "Tamarind"
+        ]
+    },
+    {
+        "Item": "Thyme",
+        "Substitutions": [
+            "Oregano",
+            "Marjoram",
+            "Basil"
+        ]
+    },
+    {
+        "Item": "Rosemary",
+        "Substitutions": [
+            "Sage",
+            "Thyme",
+            "Savory"
+        ]
+    },
+    {
+        "Item": "Fennel Seeds",
+        "Substitutions": [
+            "Anise Seeds",
+            "Caraway Seeds",
+            "Dill Seeds"
+        ]
+    },
+    {
+        "Item": "Turmeric",
+        "Substitutions": [
+            "Curry Powder",
+            "Saffron for color",
+            "Ginger"
+        ]
+    },
+    {
+        "Item": "Bay Leaves",
+        "Substitutions": [
+            "Thyme",
+            "Oregano",
+            "Sage"
+        ]
+    },
+    {
+        "Item": "Mustard Seeds",
+        "Substitutions": [
+            "Prepared Mustard",
+            "Wasabi Powder",
+            "Horseradish Powder"
+        ]
+    },
+    {
+        "Item": "Ginger",
+        "Substitutions": [
+            "Allspice",
+            "Cinnamon",
+            "Nutmeg"
+        ]
+    },
+    {
+        "Item": "Chili Powder",
+        "Substitutions": [
+            "Cayenne Pepper",
+            "Hot Paprika",
+            "Hot Sauce"
+        ]
+    },
+    {
+        "Item": "Allspice",
+        "Substitutions": [
+            "Cinnamon, Clove, and Nutmeg mix",
+            "Pumpkin Pie Spice",
+            "Ginger"
+        ]
+    },
+    {
+        "Item": "Honey",
+        "Substitutions": [
+            "Maple Syrup",
+            "Agave Nectar"
+        ]
+    },
+    {
+        "Item": "Rice Vinegar",
+        "Substitutions": [
+            "Apple Cider Vinegar",
+            "White Wine Vinegar"
+        ]
+    },
+    {
+        "Item": "Canola Oil",
+        "Substitutions": [
+            "Vegetable Oil",
+            "Sunflower Oil"
+        ]
+    },
+    {
+        "Item": "Carrots",
+        "Substitutions": [
+            "Parsnips",
+            "Turnips"
+        ]
+    },
+    {
+        "Item": "Scallion",
+        "Substitutions": [
+            "Green Onion",
+            "Chives"
+        ]
+    },
+    {
+        "Item": "Snow Pea",
+        "Substitutions": [
+            "Sugar Snap Peas",
+            "Green Beans"
+        ]
+    },
+    {
+        "Item": "Garam Masala",
+        "Substitutions": [
+            "Curry Powder",
+            "Chaat Masala"
+        ]
+    },
+    {
+        "Item": "Cardamom",
+        "Substitutions": [
+            "Cinnamon",
+            "Nutmeg"
+        ]
+    },
+    {
+        "Item": "Saffron",
+        "Substitutions": [
+            "Turmeric",
+            "Safflower"
+        ]
+    },
+    {
+        "Item": "Pickled Mango",
+        "Substitutions": [
+            "Pickled Apricot",
+            "Pickled Peach"
+        ]
+    },
+    {
+        "Item": "Peppercorns",
+        "Substitutions": [
+            "Ground Black Pepper",
+            "White Peppercorns"
+        ]
+    }
+]
+
+
