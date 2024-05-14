@@ -4,7 +4,7 @@ An app made for finding recipes based on ingredients entered by the user.
 
 
 ## Installation
-```
+
 1. Clone the repository or download the zip file.
 
 2. Open the terminal in the project directory, recipe-finder-main.
