@@ -3,65 +3,24 @@ An app made for finding recipes based on ingredients entered by the user.
 
 
 
-## Getting Started
-To run the app:
+## Installation
 ```
-python main.py
-```
+1. Clone the repository or download the zip file.
+
+2. Open the terminal in the project directory, recipe-finder-main.
+
 If your working with VS Code and module imports are not recognized, add the project directory 
 in the system environment variables, giving it a name of PYTHONPATH and specifying the full path to the folder.
 ```
 Edit the system environment variables >> Environment Variables >> System Variables >> New
 ```
-## Example
 
-When the app is launched two options will appear - to create an account or log in.
-
-Recipes matching user ingredients the most are displayed first:
-
-![tasty-results](https://github.com/JustasDaugi/recipe-finder-app/assets/114675049/721656f6-218b-475e-8c6b-2d955dbbba09)
-
-![bbc-results](https://github.com/JustasDaugi/recipe-finder-app/assets/114675049/8bccdbd8-a274-43d3-ba2b-8cabbcc3dc98)
-
-Additional options - view all recipes, save recipes, delete recipes:
-
-![all-tasty](https://github.com/JustasDaugi/recipe-finder-app/assets/114675049/a552bfd3-7069-4f75-acf4-370347aedab4)
-
-![all-bbc](https://github.com/JustasDaugi/recipe-finder-app/assets/114675049/175c5565-c305-4b19-a3d0-5f54972c7438)
-
-![view-saved](https://github.com/JustasDaugi/recipe-finder-app/assets/114675049/e787d579-1256-42c7-b8df-dc61c2301d8d)
 
 
 ## Acknowledgements
 This dataset contains 1,617 recipes.
 
 The dataset is available at [Kaggle](https://www.kaggle.com/gjbroughton/christmas-recipes) with no license given (I'd like to acknowledge the authors of each recipe and [BBC Good Food](https://www.bbcgoodfood.com/) website.).
-
-
-#### Statistics
-```
-#record: 1617
-#nodes per record: [16, 64]  -  avg = 26.08
-
-TYPE distribution:
-objects: [1, 1]  -  avg = 1.0
- arrays: [2, 2]  -  avg = 2.0
-   keys: [6, 6]  -  avg = 6.0
- values: [7, 55]  -  avg = 17.08
-
-DEPTH distribution:
-maximum: [3, 3]  -  avg = 3.0
-
-OUTDEGREE distribution OBJECT:
-minimum: [6, 6]  -  avg = 6.0
-average: [6.0, 6.0]  -  avg = 6.0
-maximum: [6, 6]  -  avg = 6.0
-
-OUTDEGREE distribution ARRAY:
-minimum: [0, 19]  -  avg = 3.47
-average: [1.5, 25.5]  -  avg = 6.54
-maximum: [2, 41]  -  avg = 9.61
-```
 
 #### Example
 ```
