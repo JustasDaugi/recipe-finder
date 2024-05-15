@@ -4,6 +4,7 @@ An app made for finding recipes based on ingredients entered by the user.
 
 
 ## Installation
+Requires Python 3.12
 
 1. Clone the repository or download the zip file.
 
@@ -14,7 +15,13 @@ in the system environment variables, giving it a name of PYTHONPATH and specifyi
 ```
 Edit the system environment variables >> Environment Variables >> System Variables >> New
 ```
+## Usage
 
+1. In recipe-finder-main, run main.py file, with command python main.py.
+
+2. Then, you will be prompted to create an account or log-in.
+
+3. After logging in, choose BBC Goodfood or Tasty recipes. Then, enter ingredients and spices, seperated by commas. Press Search to get results.
 
 
 ## Acknowledgements
