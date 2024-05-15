@@ -29,4 +29,3 @@ This dataset contains 1,617 recipes.
 
 The dataset is available at [Kaggle](https://www.kaggle.com/gjbroughton/christmas-recipes) with no license given (I'd like to acknowledge the authors of each recipe and [BBC Good Food](https://www.bbcgoodfood.com/) website.).
 
-```
