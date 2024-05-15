@@ -8,7 +8,7 @@ Requires Python 3.12
 
 1. Clone the repository or download the zip file.
 
-2. Open the terminal in the project directory, recipe-finder-main.
+2. Navigate to the main project directory, recipe-finder-main.
 
 If your working with VS Code and module imports are not recognized, add the project directory 
 in the system environment variables, giving it a name of PYTHONPATH and specifying the full path to the folder.
