@@ -19,7 +19,7 @@ Edit the system environment variables >> Environment Variables >> System Variabl
 ```
 ## Usage
 
-1. In recipe-finder folder, start the app by running command python3 main.py(or python main.py if using Windows).
+1. In recipe-finder folder, start the app by running command python3 main.py (or python main.py if using Windows).
 
 2. Then, you will be prompted to create an account or log-in.
 
