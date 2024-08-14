@@ -1,8 +1,3 @@
-# recipe-finder-app
-An app made for finding recipes based on ingredients entered by the user.
-
-
-
 ## Installation
 Requires Python 3.12
 
