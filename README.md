@@ -5,7 +5,7 @@ Requires Python 3.12
 
 2. Navigate to the main project directory, recipe-finder.
 
-3. Install required dependencies by running command pip install -r requirements. txt.
+3. Install required dependencies by running command pip install -r requirements.txt.
 
 If your working with VS Code and module imports are not recognized, add the project directory 
 in the system environment variables, giving it a name of PYTHONPATH and specifying the full path to the folder.
